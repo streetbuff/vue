@@ -62,7 +62,7 @@ export default {
                 isPrint: false
             }, {
                 text: "PDF",
-                link: "/resume.pdf",
+                link: "/Resume.pdf",
                 isPrint: false
             }]
         };
