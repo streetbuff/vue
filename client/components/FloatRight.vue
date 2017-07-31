@@ -53,25 +53,17 @@ export default {
     data() {
         return {
             items: [{
-                text: "ME",
-                link: "https://github.com/streetbuff/vue-resume.git",
+                text: "Linkedin",
+                link: "https://www.linkedin.com/in/jeff-swanson-56044128/",
                 isPrint: false
             }, {
                 text: "Github",
-                link: "https://github.com/streetbuff",
-                isPrint: false
-            }, {
-                text: "Blog",
-                link: "https://github.com/streetbuff/blog",
+                link: "https://github.com/swanie42",
                 isPrint: false
             }, {
                 text: "PDF",
                 link: "/resume.pdf",
                 isPrint: false
-            }, {
-                text: "打印简历",
-                link: "#",
-                isPrint: true
             }]
         };
     },

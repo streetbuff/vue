@@ -9,7 +9,7 @@
                     <span>PROFESSIONAL SUMMARY</span>
                 </div>
                 <div>
-                    <h4 style="margin-bottom: 10px; margin-top: 10px; font-weight: bold; line-height: 1.5;">Problem solving buff offering years of experience in the full software development lifecycle – from concept through delivery.</h4>
+                    <h4 style="margin-bottom: 10px; margin-top: 10px; font-weight: bold; line-height: 1.5;">Angular developer (dabbling in Vue) with years of experience in the full software development lifecycle – from concept through delivery.</h4>
                     <ul style="list-style-type: circle; margin-left:20px; ">
                         <li style="margin-bottom: 10px; line-height: 1.5;">My strong sales background helps me keep my focus on building quality products with great user experiences.</li>
                         <li style="margin-bottom: 10px; line-height: 1.5;">My military experience taught me to work smart, to put mission first and to never give up.</li>

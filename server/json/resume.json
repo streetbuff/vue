@@ -47,7 +47,7 @@
     "Indesign": 75,
     "Audition": 50
   },
-  "evaluation":"Problem solving buff offering years of experience in the full software development lifecycle – from concept through delivery",
+  "evaluation":"Angular developer (dabbling in Vue) with years of experience in the full software development lifecycle – from concept through delivery.",
   "education":{
     "time":"May 2009",
     "school":"University of Colorado",
@@ -65,10 +65,10 @@
           "description":
             "Assisting and Leading in the design and development of an enterprise SaaS application for a well funded startup in the field services industry",
           "highlights": [
-            "Lead developer and designer for the Readyboard’s iOS application, reducing average work time by 50%",
-            "Created a module that extracts dynamically rendered data and configures it to PDF or CSV, reducing average work time from 10 hours to 1 hour",
-            "Designed and developed the image CRUD, frontend and backend, storing files in AWS s3",
-            "Currently in charge of maintenance, feature development and dev ops for both the web and mobile app"
+            "Lead developer and designer for the Readyboard’s iOS application, reducing average work time by 50%. For this project I used Angular 1 and Ionic with Cordova.",
+            "Created a module that extracts dynamically rendered data and configures it to PDF or CSV, reducing average work time from 10 hours to 1 hour.  This was done in Angular 1",
+            "Designed and developed the image CRUD, frontend and backend, storing files in AWS s3 and Angular 1",
+            "Currently in charge of maintenance, feature development and dev ops for both the web and mobile app. Beginning to prepare for a change over to Angular 4"
           ]
         }
       ]
