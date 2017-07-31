@@ -60,11 +60,13 @@ export default {
                 text: "Github",
                 link: "https://github.com/swanie42",
                 isPrint: false
-            }, {
-                text: "PDF",
-                link: "/Resume.pdf",
-                isPrint: false
-            }]
+            }
+            // {
+            //     text: "PDF",
+            //     link: "/Resume.pdf",
+            //     isPrint: false
+            // }
+          ]
         };
     },
 
