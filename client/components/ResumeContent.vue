@@ -111,7 +111,7 @@
             </section>
         </div>
     </article> -->
-    <footer class="main-footer">
+    <footer class="main-footer" style="display:none">
         <span @click="changePage(true)" v-show="!prev">Front</span>
         <span @click="changePage(false)" v-show="prev">Back</span>
     </footer>
