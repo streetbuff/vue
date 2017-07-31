@@ -1,0 +1,132 @@
+{
+  "resumeTitle": "Jeffrey Swanson",
+  "jobTitle":"Software Engineer",
+  "name":"Jeff Swanson",
+  "avatar":"/images/jeff-head.png",
+  "email":"swanie42@gmail.com",
+  "github":"https://github.com/swanie42",
+  "blog":"https://linkedin.com/in/jeff-swanson-56044128",
+  "wisdom":"Love what you do, do it all the time",
+  "social":{
+
+  },
+  "jobs":{
+  },
+  "frontend":{
+    "HTML/CSS": 90,
+    "JavaScript": 90,
+    "Angular": 85,
+    "jQuery": 75,
+    "Express.js": 65,
+    "Angular 4": 55,
+    "Vue": 55,
+    "React": 20
+  },
+  "backend":{
+    "Mongodb": 80,
+    "Node.js": 75,
+    "Mongoose": 70,
+    "S3": 60,
+    "Google Cloud": 35,
+    "AWS": 35,
+    "EC2": 30,
+    "Linux": 30
+  },
+  "mobile":{
+    "Proto.io": 85,
+    "SketchApp": 80,
+    "Ionic": 75,
+    "Xcode": 60,
+    "Swift": 50
+  },
+  "digital":{
+    "Photoshop": 90,
+    "Illustrator": 90,
+    "After Effects": 80,
+    "Premiere Pro": 80,
+    "Indesign": 75,
+    "Audition": 50
+  },
+  "evaluation":"Problem solving buff offering years of experience in the full software development lifecycle – from concept through delivery",
+  "education":{
+    "time":"May 2009",
+    "school":"University of Colorado",
+    "type":"Bachelors in Communication"
+  },
+  "works":[
+    {
+      "company":"Readyboard",
+      "time":"Present",
+      "start": "Sep 2016",
+      "title":"Louisville, CO",
+      "projects":[
+        {
+          "name":"Software Engineer",
+          "description":
+            "Assisting and Leading in the design and development of an enterprise SaaS application for a well funded startup in the field services industry",
+          "highlights": [
+            "Lead developer and designer for the Readyboard’s iOS application, reducing average work time by 50%",
+            "Created a module that extracts dynamically rendered data and configures it to PDF or CSV, reducing average work time from 10 hours to 1 hour",
+            "Designed and developed the image CRUD, frontend and backend, storing files in AWS s3",
+            "Currently in charge of maintenance, feature development and dev ops for both the web and mobile app"
+          ]
+        }
+      ]
+    },
+    {
+      "company":"STREETBUFF",
+      "time":"Sep 2016",
+      "start": "Sep 2014",
+      "title":"Longmont, CO",
+      "projects":[
+        {
+          "name":"Co-founder",
+          "description":
+            "Client-side and Server-side design, development and marketing for consumer facing mobile and web application created for the travel industry.",
+          "highlights": [
+            "Built the backend infrastructure in Node, Mongo and Google Cloud including our own 2dSphere indexed location and city database.",
+            "Assisted in the development of the V2 mobile app in Swift/iOS and V2 web app in Angular 4.",
+            "Ran a team of four developers, utilizing Agile methods, from requirements definition through successful deployment.",
+            "Managed a team of 10 marketing interns in NYC who helped launch successful marketing campaigns in Manhattan including guerilla marketing, print and web advertising."
+          ]
+        }
+      ]
+    }
+  ],
+  "summary":[
+    {
+      "paragraph":"Problem solving buff offering years of experience in the full software development lifecycle – from concept through delivery.",
+      "bullets":[
+        "My strong sales background helps me keep my focus on building quality products with great user experiences.",
+        "My military experience taught me to work smart, to put mission first and to never give up."
+      ]
+    }
+  ],
+  "projects":[
+    {
+      "company":"CROCS CASINO RESORT",
+      "time":"Oct 2014",
+      "start":"Mar 2012",
+      "title":"Jaco, Costa Rica",
+      "projects":[
+        {
+          "name":"Digital Marketing Lead",
+          "description":
+            "In charge of all marketing including print and web.",
+          "highlights": [
+            "Designed the casino’s website and collaborated with a team of developers throughout the full development process.",
+            "Created and published an animated commercial that played in the terminal of the San Jose Airport.",
+            "Designed roadside billboards that were placed along the San Jose Highway."
+          ]
+        }
+      ]
+    }
+
+  ],
+  "skillsDesc":[
+    "2 years in Costa Rica surfing and learning Spanish with my family",
+    "4 years in sales and sales management",
+    "5 years as a freelance Animator, web designer, digital and print artist",
+    "1 year in Baghdad Iraq with the Army"
+  ]
+}
