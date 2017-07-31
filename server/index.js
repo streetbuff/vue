@@ -36,6 +36,6 @@ app.use(logger());
 
 controller.register(app);
 
-app.listen('9002','localhost',  () => {
+app.listen('9002','45.55.86.35',  () => {
     console.log(process.env.NODE_ENV,'listening on port 9002...');
 });
