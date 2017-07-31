@@ -1,0 +1,8 @@
+{
+  "uid": "vue-resume-jeff",
+  "append": true,
+  "watch": true,
+  "script": "./server/index.js",
+  "sourceDir": ".",
+  "args": ["--harmony"]
+}

@@ -36,8 +36,10 @@ app.use(logger());
 
 controller.register(app);
 
-app.listen(process.env.PORT || 3000, () => {
+let port = process.env.PORT || 9000;
+
+app.listen(port, () => {
     console.log(
-      `Server listening on localhost:${process.env.PORT}, env: ${process.env.NODE_ENV}`
+      `Server listening on localhost:${port}, env: ${process.env.NODE_ENV}`
     );
 });
