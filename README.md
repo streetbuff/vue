@@ -26,7 +26,7 @@ npm run prod:build
 
 Make sure Node.js is installed in your computer.
 
-And then, open browser(using chrome for best experience) and visit `http://45.55.86.35:9002/`.
+And then, open browser(using chrome for best experience) and visit `http://localhost:9002/`.
 
 ### Generate owner resume
 

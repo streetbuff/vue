@@ -19,8 +19,8 @@ let renderPage = function*(projectName, bundleUrl, title, tpl) {
     if (env === 'development') {
         this.body = yield this.render(tpl, {
             scripts: [
-                'http://45.55.86.35:3000/assets/vendor.js',
-                `http://45.55.86.35:3000${bundleUrl}`
+                'http://localhost:3000/assets/vendor.js',
+                `http://localhost:3000${bundleUrl}`
             ],
             styles: ['/assets/styles'],
             title: title
