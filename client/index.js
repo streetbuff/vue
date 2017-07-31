@@ -15,7 +15,7 @@ import Vue from 'vue';
 //import $ from 'jquery';
 
 import store from './vuex/index';
-import App from './App.vue';
+import App from './app.vue';
 
 Vue.config.devtools = process.env.NODE_ENV !== 'production' ? true : false;
 
